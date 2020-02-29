@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ASUS
+ * @author ASUS20
  */
 public class EXTRAER {
 
